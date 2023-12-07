@@ -6,11 +6,10 @@
 https://drive.google.com/file/d/10yts1j2n8qHQbxknCxqa4sIlKtMaz_7U/view?usp=sharing
 
 ## Problem Statement
-
+ Adventure Works Company a global  manufacturing company that produces cycling equipment and accessories
+ The management team needs a way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
 This dashboard helps the company to understand their customers better. It helps the company know if their customers are satisfied with their services. Through analyzing trends and pattern they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the which product is high in demand  & product which causing loss to the company, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted issue and the number one customer  .
 
-Power BI Report to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers through Connecting and transforming the raw
-data to Build a relational data model, calculated columns, measures with DAX and Design an interactive dashboard to visualize the data
 
 
 
